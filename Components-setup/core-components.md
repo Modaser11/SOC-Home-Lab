@@ -12,3 +12,11 @@ All you need is to follow these commands:\
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
+after updating and upgrading you can go to splunk website to create an account and get a free trial of splunk enterprise\
+<img width="1165" height="286" alt="image" src="https://github.com/user-attachments/assets/1ed1e918-9788-46bd-9e12-afeff913dffc" /> \
+as You see in image I have selected linux because of ubuntu and you should copy the wget link of the .deb package because ubuntu based on debian \
+you will get a command like this:\
+```bash
+wget -O splunk-10.4.2-33c3bf42cd73-linux-amd64.deb "https://download.splunk.com/products/splunk/releases/10.4.2/linux/splunk-10.4.2-33c3bf42cd73-linux-amd64.deb"
+```
+just paste it in the terminal.\
