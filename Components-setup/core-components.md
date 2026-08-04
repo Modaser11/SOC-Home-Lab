@@ -8,15 +8,15 @@ Finally to finish setting the core components of the lab as operating systems wi
 ***
 Second Step:\
 we need to download every needed tool at every machine so we'll star with Splunk we'll download it on the ubuntu server. \
-All you need is to follow these commands:\
+All you need is to follow these commands:
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
 after updating and upgrading you can go to splunk website to create an account and get a free trial of splunk enterprise\
 <img width="1165" height="286" alt="image" src="https://github.com/user-attachments/assets/1ed1e918-9788-46bd-9e12-afeff913dffc" /> \
 as You see in image I have selected linux because of ubuntu and you should copy the wget link of the .deb package because ubuntu based on debian \
-you will get a command like this:\
+you will get a command like this:
 ```bash
 wget -O splunk-10.4.2-33c3bf42cd73-linux-amd64.deb "https://download.splunk.com/products/splunk/releases/10.4.2/linux/splunk-10.4.2-33c3bf42cd73-linux-amd64.deb"
 ```
-just paste it in the terminal.\
+just paste it in the terminal.
