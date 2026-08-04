@@ -19,4 +19,5 @@ you will get a command like this:
 ```bash
 wget -O splunk-10.4.2-33c3bf42cd73-linux-amd64.deb "https://download.splunk.com/products/splunk/releases/10.4.2/linux/splunk-10.4.2-33c3bf42cd73-linux-amd64.deb"
 ```
-just paste it in the terminal.
+just paste it in the terminal. /
+after you confirm that the file has downloaded successfully as the following image
