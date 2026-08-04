@@ -35,3 +35,5 @@ we can do a good step which is enabling Splunk at Boot (optional):
 ```bash
 sudo /opt/splunk/bin/splunk enable boot-start
 ```
+Now as we see as a final step we test the web interface:
+<img width="1080" height="293" alt="image" src="https://github.com/user-attachments/assets/7d37fd53-edbf-4abc-b7bb-faaa9a36e87d" />
