@@ -31,3 +31,7 @@ Then start splunk and accept license:
 ```bash
 sudo /opt/splunk/bin/splunk start --accept-license
 ```
+we can do a good step which is enabling Splunk at Boot (optional):
+```bash
+sudo /opt/splunk/bin/splunk enable boot-start
+```
