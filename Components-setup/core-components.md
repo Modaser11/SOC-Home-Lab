@@ -27,4 +27,7 @@ use the following command to install the package:
 ```bash
 sudo dpkg -i splunk-10.4.2-33c3bf42cd73-linux-amd64.deb
 ```
-
+Then start splunk and accept license: 
+```bash
+sudo /opt/splunk/bin/splunk start --accept-license
+```
