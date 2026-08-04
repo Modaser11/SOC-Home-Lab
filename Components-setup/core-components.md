@@ -7,7 +7,6 @@ Finally to finish setting the core components of the lab as operating systems wi
 <img width="607" height="257" alt="image" src="https://github.com/user-attachments/assets/5fa2232e-b10f-4fd5-954d-7edf758062b4" /> 
 ***
 \
-\
 ## Second Step:
 we need to download every needed tool at every machine so we'll star with Splunk we'll download it on the ubuntu server. \
 All you need is to follow these commands:
