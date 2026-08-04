@@ -22,7 +22,7 @@ wget -O splunk-10.4.2-33c3bf42cd73-linux-amd64.deb "https://download.splunk.com/
 just paste it in the terminal. \
 after you confirm that the file has downloaded successfully as the following image \
 <img width="345" height="44" alt="image" src="https://github.com/user-attachments/assets/12914abd-f00f-46b7-bce2-d4ba5ad91481" /> \
-use the following command to install the package: \ 
+use the following command to install the package: 
 ```bash
 sudo dpkg -i splunk-10.4.2-33c3bf42cd73-linux-amd64.deb
 ```
