@@ -9,6 +9,6 @@ Finally to finish setting the core components of the lab as operating systems wi
 Second Step:\
 we need to download every needed tool at every machine so we'll star with Splunk we'll download it on the ubuntu server. \
 All you need is to follow these commands:\
-'''bash
+```bash
 sudo apt update && sudo apt upgrade -y
-'''
+```
